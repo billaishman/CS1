@@ -22,8 +22,8 @@ Magic 8 Ball:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Magic8ball.py
 
 This is a magic 8-ball program. The user asks a question and it gives a random answer. I made this program to:
-      -Ask the user a question.
-      -Randomly choose from an array.
+            -Ask the user a question.
+            -Randomly choose from an array.
 
 
 RPS:

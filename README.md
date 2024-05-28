@@ -26,6 +26,7 @@ Randomly choose from an array.
 
 
 RPS:
+https://github.com/billaishman/CS1/blob/main/Aishman_Bill_rps.py
 
 This is a rock, paper, scissors game. The user enters rock, paper, or scissors. The computer randomly chooses rock, paper, or scissors and determines who wins.  I made this program to:
 The user can play against the computer.

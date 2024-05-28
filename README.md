@@ -45,6 +45,7 @@ Generate that number of menu items.
 
 
 Function Mashup:
+https://github.com/billaishman/CS1/blob/main/Aishman_Bill_functionmash.py
 
 This program is a function mashup that does many things. I made this program to:
 Two functions to reduce the number of print statements needed to “sing” a song (checkpoint).

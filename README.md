@@ -8,8 +8,6 @@ These are the programs I wrote in CS1.
 
 -Bill
 
-https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Foodomatic.py
-
 
 Morning Routine:
 
@@ -36,6 +34,9 @@ The game determines who wins in each game.
 There is an option to play again.
 
 Food-o-Matic:
+
+https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Foodomatic.py
+
 This program generates a random combination of food items for a menu. I made this program to:
 Use parallel arrays by creating a list for each column below
 Prompt the user for a number of menu items.

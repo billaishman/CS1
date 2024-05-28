@@ -1,6 +1,9 @@
 # CS1
 Portfolio of programs created in CS1 
+
+
 Hello!
+
 These are the programs I wrote in CS1.
 
 -Bill

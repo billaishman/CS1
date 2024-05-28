@@ -34,7 +34,6 @@ The game determines who wins in each game.
 There is an option to play again.
 
 Food-o-Matic:
-
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Foodomatic.py
 
 This program generates a random combination of food items for a menu. I made this program to:

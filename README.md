@@ -9,7 +9,7 @@ These are the programs I wrote in CS1.
 -Bill
 
 
-Morning Routine:
+1) Morning Routine:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_morningroutine.py
 
 This program explains a morning routine based on user input. So if the user is asked if it is raining and the user replies “yes” then the program says to bring an umbrella. I made this program to: 
@@ -18,7 +18,7 @@ This program explains a morning routine based on user input. So if the user is a
       -Give a different answer depending on user input.
 
 
-Magic 8 Ball:
+2) Magic 8 Ball:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Magic8ball.py
 
 This is a magic 8-ball program. The user asks a question and it gives a random answer. I made this program to:
@@ -27,7 +27,7 @@ This is a magic 8-ball program. The user asks a question and it gives a random a
       -Randomly choose from an array.
 
 
-RPS:
+3) RPS:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_rps.py
 
 This is a rock, paper, scissors game. The user enters rock, paper, or scissors. The computer randomly chooses rock, paper, or scissors and determines who wins.  I made this program to:
@@ -39,7 +39,7 @@ This is a rock, paper, scissors game. The user enters rock, paper, or scissors. 
       -The game determines who wins in each game.
       -There is an option to play again.
 
-Food-o-Matic:
+4) Food-o-Matic:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Foodomatic.py
 
 This program generates a random combination of food items for a menu. I made this program to:
@@ -50,7 +50,7 @@ This program generates a random combination of food items for a menu. I made thi
 
 
 
-Function Mashup:
+5) Function Mashup:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_functionmash.py
 
 This program is a function mashup that does many things. I made this program to:
@@ -64,7 +64,7 @@ This program is a function mashup that does many things. I made this program to:
       -Takes a string and two characters, then replaces every instance in the string of the first character with the second (without using string methods). Example: “hello world”, “l”, “a” would return “heaao worad”.
 
 
-Password keeper:
+6) Password keeper:
 https://github.com/billaishman/CS1/blob/main/Aishman_Bill_passwordkeeper.py
 
 This program stores websites, user names and password in three parallel arrays. I made this program to: 

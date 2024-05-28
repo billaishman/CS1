@@ -8,6 +8,9 @@ These are the programs I wrote in CS1.
 
 -Bill
 
+https://github.com/billaishman/CS1/blob/main/Aishman_Bill_Foodomatic.py
+
+
 Morning Routine:
 
 This program explains a morning routine based on user input. So if the user is asked if it is raining and the user replies “yes” then the program says to bring an umbrella. I made this program to: 

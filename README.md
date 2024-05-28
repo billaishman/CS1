@@ -15,7 +15,6 @@ https://github.com/billaishman/CS1/blob/main/Aishman_Bill_morningroutine.py
 This program explains a morning routine based on user input. So if the user is asked if it is raining and the user replies “yes” then the program says to bring an umbrella. I made this program to: 
 
       -Take user input.
-  
       -Give a different answer depending on user input.
 
 

@@ -10,6 +10,7 @@ These are the programs I wrote in CS1.
 
 
 Morning Routine:
+https://github.com/billaishman/CS1/blob/main/Aishman_Bill_morningroutine.py
 
 This program explains a morning routine based on user input. So if the user is asked if it is raining and the user replies “yes” then the program says to bring an umbrella. I made this program to: 
 Take user input.
